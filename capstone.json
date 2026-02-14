@@ -32,7 +32,7 @@
       "name": "Lemon Dessert",
       "price": 4.99,
       "description": "You can't go wrong with this delicious lemon dessert!",
-      "image": "lemonDessert.jpg",
+      "image": "lemonDessert.png",
       "category": "desserts"      
     }
   ]
